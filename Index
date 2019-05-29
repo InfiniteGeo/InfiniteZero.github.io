@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head><title>Welcome To My Webpage!</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style>
+html, body, #header {
+    margin: 0 !important;
+    padding: 0 !important;
+   	font-family: system-ui, sans-serif;
+}
+body{
+	
+    margin:0;    padding: 0;
+    background-image: url("B.jpg");
+	font-family: system-ui, sans-serif;
+	font-size: 3px;
+  
+    }
+.header {
+    height: 50px;
+    background: #073642;
+	font-family: system-ui, sans-serif;
+    font-size:48px;
+}
+.footer {
+    height: 50px;
+     background: #f2f2f2 ;
+    font-size:14px;
+}
+a{
+	background-color: #0d4d70;
+	color: #eee8d5;-10-09 15:56    -
+	font-weight: bold;
+text-decoration: none;
+}
+a:hover{
+	background-color: #43d24d;
+	color: #fdf6e3;
+	font-weight: bold;
+text-decoration: none;
+}
+</style>
+</head>
+<center>
+	<div style=" font-size: 36px; ">私のウェブページへようこそ!</div>
+	
+</center>
+<body>
+<div class="header">
+<center>
+Welcome To My Webpage!
+</center>
+</div>
+
+<div class="footer">
+Documentation
+<center>
+<a href ="https://infinitegeo.github.io/2500.html">To My PC Builds </a>
+	
+<div style=" font-size: 36px; color:white;padding:1px;""img/Team Gogeta.jpg"s</div>
+</center>
+</div>
+</body>
+</html>
